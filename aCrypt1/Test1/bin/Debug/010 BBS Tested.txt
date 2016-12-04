@@ -1,0 +1,4 @@
+H0 is true
+Data amount: 1000000
+Hi_Crit: 307.52847570604
+Hi_Result: 254.499743983615

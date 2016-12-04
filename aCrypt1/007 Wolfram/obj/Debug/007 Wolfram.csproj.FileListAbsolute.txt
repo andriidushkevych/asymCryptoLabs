@@ -1,0 +1,6 @@
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\007 Wolfram\bin\Debug\007 Wolfram.exe.config
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\007 Wolfram\bin\Debug\007 Wolfram.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\007 Wolfram\bin\Debug\007 Wolfram.pdb
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\007 Wolfram\obj\Debug\007 Wolfram.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\007 Wolfram\obj\Debug\007 Wolfram.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\007 Wolfram\obj\Debug\007 Wolfram.pdb

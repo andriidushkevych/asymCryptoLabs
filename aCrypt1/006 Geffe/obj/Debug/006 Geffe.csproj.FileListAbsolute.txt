@@ -1,0 +1,6 @@
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\006 Geffe\bin\Debug\006 Geffe.exe.config
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\006 Geffe\bin\Debug\006 Geffe.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\006 Geffe\bin\Debug\006 Geffe.pdb
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\006 Geffe\obj\Debug\006 Geffe.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\006 Geffe\obj\Debug\006 Geffe.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\006 Geffe\obj\Debug\006 Geffe.pdb

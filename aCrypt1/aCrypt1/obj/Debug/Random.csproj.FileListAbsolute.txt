@@ -1,0 +1,6 @@
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt1\aCrypt1\bin\Debug\aCrypt1.exe.config
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt1\aCrypt1\bin\Debug\aCrypt1.exe
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt1\aCrypt1\bin\Debug\aCrypt1.pdb
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt1\aCrypt1\obj\Debug\Random.csprojResolveAssemblyReference.cache
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt1\aCrypt1\obj\Debug\aCrypt1.exe
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt1\aCrypt1\obj\Debug\aCrypt1.pdb

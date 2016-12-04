@@ -1,0 +1,6 @@
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\L20\bin\Debug\L20.exe.config
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\L20\bin\Debug\L20.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\L20\bin\Debug\L20.pdb
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\L20\obj\Debug\004 L20.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\L20\obj\Debug\L20.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\L20\obj\Debug\L20.pdb

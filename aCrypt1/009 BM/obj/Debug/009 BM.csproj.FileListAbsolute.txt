@@ -1,0 +1,6 @@
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\009 BM\bin\Debug\009 BM.exe.config
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\009 BM\obj\Debug\009 BM.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\009 BM\bin\Debug\009 BM.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\009 BM\bin\Debug\009 BM.pdb
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\009 BM\obj\Debug\009 BM.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\009 BM\obj\Debug\009 BM.pdb

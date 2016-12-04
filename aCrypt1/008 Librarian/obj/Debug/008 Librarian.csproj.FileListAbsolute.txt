@@ -1,0 +1,6 @@
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\008 Librarian\bin\Debug\008 Librarian.exe.config
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\008 Librarian\bin\Debug\008 Librarian.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\008 Librarian\bin\Debug\008 Librarian.pdb
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\008 Librarian\obj\Debug\008 Librarian.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\008 Librarian\obj\Debug\008 Librarian.exe
+C:\Users\Uzer\Documents\Visual Studio 2015\Projects\aCrypt1\008 Librarian\obj\Debug\008 Librarian.pdb

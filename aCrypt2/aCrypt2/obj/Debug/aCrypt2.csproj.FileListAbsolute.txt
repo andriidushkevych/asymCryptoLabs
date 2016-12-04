@@ -1,0 +1,6 @@
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt2\aCrypt2\bin\Debug\aCrypt2.exe.config
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt2\aCrypt2\bin\Debug\aCrypt2.exe
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt2\aCrypt2\bin\Debug\aCrypt2.pdb
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt2\aCrypt2\obj\Debug\aCrypt2.csprojResolveAssemblyReference.cache
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt2\aCrypt2\obj\Debug\aCrypt2.exe
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt2\aCrypt2\obj\Debug\aCrypt2.pdb
