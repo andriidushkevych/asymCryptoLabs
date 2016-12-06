@@ -207,7 +207,7 @@ namespace aCrypt2
             BigInteger FIn = BigInteger.Multiply(BigInteger.Subtract(p, 1), BigInteger.Subtract(q, 1));
             BigInteger e = 65537;//Открытый ключ
             //ИСПРАВИТЬ ОБРАТНОЕ ПО МОДУЛЮ
-            BigInteger d = BigInteger.ModPow(e, -1, FIn);// закрытый ключ
+            BigInteger d = ModularInverse(e, FIn);//BigInteger.ModPow(e, -1, FIn);// закрытый ключ            
             BigInteger check = BigInteger.Multiply(d, e) % FIn;
             Console.WriteLine(check);
             List<BigInteger> keys = new List<BigInteger>();
@@ -215,6 +215,28 @@ namespace aCrypt2
             keys.Add(e);
             keys.Add(d);
             return keys;
+        }
+
+        static BigInteger ModularInverse(BigInteger a, BigInteger b)
+        {
+            BigInteger b0 = b, t, q;
+            BigInteger x0 = 0, x1 = 1;
+            if (b == 1) return 1;
+            while (a > 1)
+            {
+                q = BigInteger.Divide(a,  b);
+                t = b;
+                b = BigInteger.Remainder(a, b);
+                a = t;
+                t = x0;
+                x0 = BigInteger.Subtract(x1, BigInteger.Multiply(q, x0));
+                x1 = t;
+            }
+            if (x1 < 0)
+            {
+                x1 = BigInteger.Add(x1, b0);
+            }
+            return x1;
         }
     }
 }

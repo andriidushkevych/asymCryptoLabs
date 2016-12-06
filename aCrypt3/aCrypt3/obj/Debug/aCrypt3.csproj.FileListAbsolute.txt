@@ -1,0 +1,6 @@
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt3\aCrypt3\bin\Debug\aCrypt3.exe.config
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt3\aCrypt3\bin\Debug\aCrypt3.exe
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt3\aCrypt3\bin\Debug\aCrypt3.pdb
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt3\aCrypt3\obj\Debug\aCrypt3.csprojResolveAssemblyReference.cache
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt3\aCrypt3\obj\Debug\aCrypt3.exe
+c:\users\uzer\documents\visual studio 2015\Projects\aCrypt3\aCrypt3\obj\Debug\aCrypt3.pdb
